@@ -1,0 +1,13 @@
+/build/
+/build-*/
+/cmake-build-*/
+/bin/
+/dist/
+*.o
+*.obj
+*.exe
+*.dll
+*.dylib
+*.so
+CMakeUserPresets.json
+.DS_Store
